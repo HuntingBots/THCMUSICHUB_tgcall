@@ -1,8 +1,8 @@
-# Telegram Voice-Chat Bot [PyTGCalls] [![Mentioned in Awesome Telegram Calls](https://awesome.re/mentioned-badge-flat.svg)](https://github.com/tgcalls/awesome-tgcalls)
+# THC MUSIC HUB https://telegra.ph/file/18b919907ce33599aa30f.jpg [PyTGCalls] [![Mentioned in Awesome Telegram Calls](https://awesome.re/mentioned-badge-flat.svg)](https://github.com/tgcalls/awesome-tgcalls)
 
-Telegram Voice-Chat Bot To Play Music With Pytgcalls From Various Sources In Your Group.
+THC MUSIC HUB To Play Music With Pytgcalls From Various Sources In Your Group.
 
-<img src="https://hamker.me/wl9twld.png" width="500" height="300">
+<img src="https://telegra.ph/file/18b919907ce33599aa30f.jpg" width="500" height="300">
 
 
 ## Requirements
@@ -23,7 +23,7 @@ Telegram Voice-Chat Bot To Play Music With Pytgcalls From Various Sources In You
 
 
 ```sh
-$ git clone https://github.com/thehamkercat/Telegram_VC_Bot
+$ git clone https://github.com/HuntingBots/THCMUSICHUB_tgcall
 $ cd Telegram_VC_Bot
 $ sudo apt-get install ffmpeg
 $ pip3 install -U pip
@@ -38,11 +38,10 @@ $ python3 main.py
 
 ## Heroku
 
-Read this -> https://t.me/TGVCSupport/17542
 
 #### Generate String session [IMPORTANT]
 
-Download this file [generate_string_session.py](https://raw.githubusercontent.com/thehamkercat/Telegram_VC_Bot/master/generate_string_session.py)
+Download this file [generate_string_session.py](https://github.com/HuntingBots/THCMUSICHUB_tgcall/HuntingBots/generate_string_session.py)
 
 
 ```sh
@@ -52,17 +51,17 @@ $ python3 generate_string_session.py
 Fork this repository and change name of `sample_config.py` to `config.py`
 Then you will need get a session string, copy it, then press heroku deploy button.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/thehamkercat/Telegram_VC_Bot/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HuntingBots/THCMUSICHUB_tgcall/tree/HuntingBots)
 
 
-Send [commands](https://github.com/thehamkercat/Telegram_VC_Bot/blob/master/README.md#commands) to bot to 
+Send [commands](https://github.com/HuntingBots/THCMUSICHUB_tgcall/blob/HuntingBots/README.md#commands) to bot to 
 play music.
 
 
 ## Docker
 
 ```sh
-$ git clone https://github.com/thehamkercat/Telegram_VC_Bot && cd Telegram_VC_Bot
+$ git clone https://github.com/HuntingBots/THCMUSICHUB_tgcall && cd THCMUSICHUB_tgcall
 $ cp sample.env .env
 ```
 Edit **.env** with your own values.
@@ -94,9 +93,4 @@ Command | Description
 
 ## Note
 
-1. If you want any help you can ask [here](https://t.me/tgvcsupport)
 
-## Credits
-
-1. [@MarshalX](https://github.com/MarshalX), For [TGCalls](https://github.com/MarshalX/tgcalls)
-2. Thanks to everyone who contributed to the project.
