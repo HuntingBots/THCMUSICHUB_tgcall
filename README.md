@@ -1,4 +1,4 @@
-# THC MUSIC HUB https://telegra.ph/file/18b919907ce33599aa30f.jpg [PyTGCalls] [![Mentioned in Awesome Telegram Calls](https://awesome.re/mentioned-badge-flat.svg)](https://github.com/tgcalls/awesome-tgcalls)
+# THC MUSIC HUB (https://telegra.ph/file/18b919907ce33599aa30f.jpg) [PyTGCalls] [![Mentioned in Awesome Telegram Calls](https://awesome.re/mentioned-badge-flat.svg)](https://github.com/tgcalls/awesome-tgcalls)
 
 THC MUSIC HUB To Play Music With Pytgcalls From Various Sources In Your Group.
 
