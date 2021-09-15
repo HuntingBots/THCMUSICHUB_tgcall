@@ -16,6 +16,7 @@ if HEROKU:
     CHAT_ID = int(environ["CHAT_ID"])
     DEFAULT_SERVICE = environ.get("DEFAULT_SERVICE") or "youtube"
     BITRATE = int(environ["BITRATE"])
+    SUDO_USERS = environ.get("SUDO_USERS")
 
 # NOTE Fill this if you are not deploying on heroku.
 if not HEROKU:
