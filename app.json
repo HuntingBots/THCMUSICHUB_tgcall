@@ -42,8 +42,8 @@
     },
     "SUDO_USERS": { 
             "description": "Allow Users To To Use This Bot By using User Id.",
-            "value": "saavn",
-            "required": true
+            "value": "",
+            "required": true 
     },
     "BITRATE": {
             "description": "Must be 512/320.",
